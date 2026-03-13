@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "24_7Bot",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "HellaGorilloHunters.aternos.me",
+    "ip": "HellaGorilloHunters.aternos.me:57825",
     "port": 57825,
     "version": "",
     "try-creative": false
