@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24_7Bot",
+    "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "HellaGorilloHunters.aternos.me:57825",
+    "ip": "HellaGorilloHunters.aternos.me",
     "port": 57825,
     "version": "",
     "try-creative": false
